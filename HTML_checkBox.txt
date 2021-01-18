@@ -1,2 +1,8 @@
 <input type="checkbox" id="isWithZero" data-toggle="tooltip" data-placement="top" title="Include Zero Quantity" />
 <span>With 0 Qty</span>
+
+//.. CODE TO TICK THE CHECKBOX
+$("#myCheck").prop("checked", true);
+
+//.. CODE TO UN-TICK THE CHECKBOX
+$("#myCheck").prop("checked", false);
