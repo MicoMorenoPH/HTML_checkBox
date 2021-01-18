@@ -1,2 +1,2 @@
 <input type="checkbox" id="isWithZero" data-toggle="tooltip" data-placement="top" title="Include Zero Quantity" />
-                        <span>With 0 Qty</span>
+<span>With 0 Qty</span>
