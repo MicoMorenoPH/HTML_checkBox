@@ -1,3 +1,6 @@
+//RESOURCES
+https://www.w3schools.com/bootstrap4/bootstrap_forms_inputs.asp
+
 <input type="checkbox" id="isWithZero" data-toggle="tooltip" data-placement="top" title="Include Zero Quantity" />
 <span>With 0 Qty</span>
 
